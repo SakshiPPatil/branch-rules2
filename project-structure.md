@@ -43,6 +43,13 @@ Let’s break it down for AWS first, then compare with Render, Supabase, and Ver
   <img width="1083" height="393" alt="image" src="https://github.com/user-attachments/assets/b9e5cc60-ceb0-46a1-9aa4-4c24a84b71c2" /> <br/>
 
 
+<br/>
+
+
+  <img width="1233" height="672" alt="image" src="https://github.com/user-attachments/assets/35e406a7-e86a-48e6-b643-31d2b145c863" /> <br/>
+
+
+
 
 
 
