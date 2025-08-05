@@ -70,10 +70,9 @@ Each time a contributor opens a PR or pushes new code, these tools run and repor
 
 create CODEOWNER file inside .github repo   and provide the name of the codeowner in it. so only codeowner merge the pull request.
 
-```
 <img width="1589" height="631" alt="image" src="https://github.com/user-attachments/assets/f2c3c2d7-42a9-4433-bf18-f37a79cb9535" />
 
-```
+
 
 
 
